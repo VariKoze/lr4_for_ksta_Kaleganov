@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700259346 source:/home/kaleganov/projects/Work_4/lab4/main.cpp
+	<iostream>
+	<string>
+	<vector>
+
