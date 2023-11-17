@@ -1,8 +1,10 @@
 # depslib dependency file v1.0
-1700259346 source:/home/kaleganov/projects/Work_4/lab4/main.cpp
+1700260709 source:/home/kaleganov/projects/Work_4/lab4/main.cpp
 	<iostream>
 	<string>
 	<vector>
+	"censor.h"
+	"test.h"
 
 1700260015 source:/home/kaleganov/projects/Work_4/lab4/censor.cpp
 	"censor.h"
@@ -11,4 +13,7 @@
 1700260042 /home/kaleganov/projects/Work_4/lab4/censor.h
 	<iostream>
 	<string>
+
+1700260649 /home/kaleganov/projects/Work_4/lab4/test.h
+	"censor.h"
 
